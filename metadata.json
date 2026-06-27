@@ -1,0 +1,6 @@
+{
+  "name": "Ristorante Monica Li",
+  "description": "Sito web ufficiale del Ristorante Giapponese e Cinese Monica Li a Roma Infernetto. Menu interattivo, galleria, prenotazioni WhatsApp, contatti, recensioni e news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
